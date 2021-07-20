@@ -5,14 +5,14 @@
 * [Pentesting Methodology](pentesting-methodology.md)
 * [External Recon Methodology](external-recon-methodology/README.md)
   * [Github Leaked Secrets](external-recon-methodology/github-leaked-secrets.md)
-* [Phishing Methodology](phishing-methodology/README.md)
-  * [Clone a Website](phishing-methodology/clone-a-website.md)
-  * [Detecting Phising](phishing-methodology/detecting-phising.md)
-  * [Phishing Documents](phishing-methodology/phishing-documents.md)
 * [Exfiltration](exfiltration.md)
 * [Tunneling and Port Forwarding](tunneling-and-port-forwarding.md)
 * [Brute Force - CheatSheet](brute-force.md)
 * [Search Exploits](search-exploits.md)
+* [Phishing Methodology](phishing-methodology/README.md)
+  * [Clone a Website](phishing-methodology/clone-a-website.md)
+  * [Detecting Phising](phishing-methodology/detecting-phising.md)
+  * [Phishing Documents](phishing-methodology/phishing-documents.md)
 
 ## Pentesting Web
 

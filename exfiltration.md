@@ -7,6 +7,7 @@
 ```bash
 base64 -w0 <file> #Encode file
 base64 -d file #Decode file
+echo "some_string" | base64
 ```
 
 #### Windows
