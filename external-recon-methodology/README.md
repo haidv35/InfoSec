@@ -166,6 +166,10 @@ curl https://sonar.omnisint.io/subdomains/tesla.com
 
 Another possibly interesting tool is [**gau**](https://github.com/lc/gau)**.** It fetches known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl for any given domain.
 
+**waybackurls**
+
+Fetch all the URLs that the Wayback Machine knows about for a domain
+
 #### [chaos.projectdiscovery.io](https://chaos.projectdiscovery.io/#/)
 
 This project offers for **free all the subdomains related to bug-bounty programs**. You can access this data also using [chaospy](https://github.com/dr-0x0x/chaospy) or even access the scope used by this project [https://github.com/projectdiscovery/chaos-public-program-list](https://github.com/projectdiscovery/chaos-public-program-list)
